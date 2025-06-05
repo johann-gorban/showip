@@ -1,3 +1,0 @@
-/Users/uckorkalaptop/Documents/Programs/Learning/Network in C/showip/build/CMakeFiles/showip.dir
-/Users/uckorkalaptop/Documents/Programs/Learning/Network in C/showip/build/CMakeFiles/edit_cache.dir
-/Users/uckorkalaptop/Documents/Programs/Learning/Network in C/showip/build/CMakeFiles/rebuild_cache.dir
